@@ -8,16 +8,16 @@ I’m passionate about leveraging data to solve business problems, improve proce
 I continuously stay curious and keep learning emerging tools and technologies in analytics, automation, and AI to expand my capabilities and deliver better solutions.
 
 Let’s connect and explore opportunities to create impactful data-driven outcomes together!
-🔭 My Interests
 
-Data Analytics: Turning complex datasets into actionable insights
+**🔭 My Interests**
 
-Business Intelligence: Designing dashboards that communicate clear, impactful stories
+**Data Analytics:** Turning complex datasets into actionable insights
+**Business Intelligence:** Designing dashboards that communicate clear, impactful stories
+**Database Systems:** Writing efficient SQL queries and optimizing data workflows
+**Automation:** Streamlining reporting through scripting and BI tools
 
-Database Systems: Writing efficient SQL queries and optimizing data workflows
+**🛠 Skills**
 
-Automation: Streamlining reporting through scripting and BI tools
-
-Programming & Databases: SQL, Python
-Analytics & Visualization: Excel, Power BI
-Data Analysis & Modeling: Pandas, NumPy, Scikit-Learn, EDA
+**Programming & Databases:** SQL, Python
+**Analytics & Visualization:** Excel, Power BI
+**Data Analysis & Modeling:** Pandas, NumPy, Scikit-Learn, EDA
