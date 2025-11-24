@@ -12,12 +12,17 @@ Let’s connect and explore opportunities to create impactful data-driven outcom
 **🔭 My Interests**
 
 **Data Analytics:** Turning complex datasets into actionable insights
+
 **Business Intelligence:** Designing dashboards that communicate clear, impactful stories
+
 **Database Systems:** Writing efficient SQL queries and optimizing data workflows
+
 **Automation:** Streamlining reporting through scripting and BI tools
 
 **🛠 Skills**
 
 **Programming & Databases:** SQL, Python
+
 **Analytics & Visualization:** Excel, Power BI
+
 **Data Analysis & Modeling:** Pandas, NumPy, Scikit-Learn, EDA
